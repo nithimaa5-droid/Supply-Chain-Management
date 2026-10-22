@@ -4,7 +4,7 @@
 
 I use an engineering mindset and data analysis to make procurement and inventory decisions measurable.
 
-[LinkedIn](#) · [Email](#) · [Resume](#) · [GitHub](#)
+[LinkedIn](https://www.linkedin.com/in/nithya-shree-9b5978335/?isSelfProfile=true) · [Email](#) · [Resume](#) · [GitHub](#)
 
 ---
 
