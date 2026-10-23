@@ -21,7 +21,7 @@ This repository documents my journey into SCM through structured learning, pract
 
 - **Inventory Analysis** -> analyze stock levels, ABC classification, safety stock, and reorder points to identify stockout risks and excess inventory.
 - **Supplier Evaluation** -> develop a supplier scorecard comparing cost, quality, delivery performance, and reliability.
-- **SAP MM Procure-to-Pay** -> document the purchasing process, from purchase requisition and purchase order to goods receipt and invoice verification.
+- **SAP MM Procure-to-Pay** -> study and document the purchasing process, from purchase requisition and purchase order to goods receipt and invoice verification.
 - **Manufacturing Supply Chain Case Study** -> map material flow from suppliers to production and identify potential bottlenecks.
 - **Supply Chain Analytics** -> use Excel and SQL to investigate inventory issues, delivery delays, and operational performance.
 
