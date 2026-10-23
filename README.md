@@ -1,4 +1,4 @@
----# 🚚 Supply Chain Management
+# 🚚 Supply Chain Management
 
 [LinkedIn](https://www.linkedin.com/in/nithya-shree-9b5978335/?isSelfProfile=true) · [Resume](https://flowcv.com/resume/mw8qcqur7v03) · [GitHub](https://github.com/nithimaa5-droid)
 
@@ -34,3 +34,4 @@ This repository will grow as I learn, experiment, and document my progress.
 ---
 
 *Learning by doing, one step at a time.* 🌱
+
