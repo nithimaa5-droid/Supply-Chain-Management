@@ -8,7 +8,7 @@ I'm an Electronics and Communication Engineering graduate currently working as a
 
 My current role involves understanding requirements, coordinating with cross-functional teams, tracking project progress, and supporting product delivery. These experiences have helped me develop skills in coordination, process understanding, and problem-solving — capabilities I aim to build upon as I learn how supply chains operate.
 
-This repository documents my journey into SCM through structured learning, practical exercises, and real-world business case studies.
+This repository documents my journey into SCM through structured learning, practical exercises, and realistic business scenarios.
 
 ## What I'm Exploring
 
